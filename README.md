@@ -1,5 +1,5 @@
 # 💫 About Me:
-Soy un desarrollador de software con tres años de experiencia, con un enfoque principal en el desarrollo Front-End. Durante mi carrera profesional, he dedicado mi tiempo al desarrollo de aplicaciones web y móviles, así como a la creación de API Rest. Mi experiencia también abarca proyectos serverless y la integración con aplicaciones de terceros.<br><br>Me apasiona enfrentar nuevos desafíos y trabajar en equipo para encontrar solucionesinnovadoras. Estoy constantemente buscando oportunidades para mejorar mis habilidades y mantenerme al día con las últimas tendencias y tecnologías en el mundo del desarrollo de software
+Soy un desarrollador de software con tres años de experiencia, con un enfoque principal en el desarrollo Front-End. Durante mi carrera profesional, he dedicado mi tiempo al desarrollo de aplicaciones web y móviles, así como a la creación de API Rest. Mi experiencia también abarca proyectos serverless y la integración con aplicaciones de terceros.<br><br>Me apasiona enfrentar nuevos desafíos y trabajar en equipo para encontrar soluciones innovadoras. Estoy constantemente buscando oportunidades para mejorar mis habilidades y mantenerme al día con las últimas tendencias y tecnologías en el mundo del desarrollo de software
 
 
 ## 🌐 Socials:
