@@ -1,7 +1,11 @@
 <h1 align="center">Hola <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, soy Orlando Bernales </h1>
 
 # 💫 Sobre mí:
-Soy un desarrollador de software con tres años de experiencia, con un enfoque principal en el desarrollo Front-End. Durante mi carrera profesional, he dedicado mi tiempo al desarrollo de aplicaciones web y móviles, así como a la creación de API Rest. Mi experiencia también abarca proyectos serverless y la integración con aplicaciones de terceros.<br><br>Me apasiona enfrentar nuevos desafíos y trabajar en equipo para encontrar soluciones innovadoras. Estoy constantemente buscando oportunidades para mejorar mis habilidades y mantenerme al día con las últimas tendencias y tecnologías en el mundo del desarrollo de software
+Soy un desarrollador de software con tres años de experiencia, con un enfoque principal en el desarrollo Front-End. Durante mi carrera profesional, he dedicado mi tiempo al desarrollo de aplicaciones web y móviles, así como a la creación de API Rest. Mi experiencia también abarca proyectos serverless y la integración con aplicaciones de terceros.
+<br><br>
+Me apasiona enfrentar nuevos desafíos y trabajar en equipo para encontrar soluciones innovadoras. Estoy constantemente buscando oportunidades para mejorar mis habilidades y mantenerme al día con las últimas tendencias y tecnologías en el mundo del desarrollo de software.<br><br>
+Además, estoy muy interesado en contribuir al mundo del código abierto y me emociona la oportunidad de colaborar en proyectos open source para seguir aprendiendo y compartiendo conocimientos con la comunidad.
+
 
 
 ## 🌐 Mis Redes:
